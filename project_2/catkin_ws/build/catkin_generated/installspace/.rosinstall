@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/workspace/robo-nd-projects/project_2/catkin_ws/install/setup.sh

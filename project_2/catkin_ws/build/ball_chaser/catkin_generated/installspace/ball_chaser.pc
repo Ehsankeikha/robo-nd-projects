@@ -1,0 +1,8 @@
+prefix=/home/workspace/robo-nd-projects/project_2/catkin_ws/install
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/home/workspace/robo-nd-projects/project_2/catkin_ws/install/include
+Libs: -L/home/workspace/robo-nd-projects/project_2/catkin_ws/install/lib 
+Requires: message_runtime roscpp std_msgs
